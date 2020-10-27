@@ -21,7 +21,7 @@
 
 
 # Tutorial 📸
-- <a href="https://youtu.be/lotV_6Gua-0">
+- <a href="https://youtu.be/fzvKVC-aNdw">
 			Youtube
 		</a> 
 
