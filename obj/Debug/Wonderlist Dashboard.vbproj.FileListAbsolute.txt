@@ -1,0 +1,14 @@
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\bin\Debug\Wonderlist Dashboard.exe.config
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\bin\Debug\Wonderlist Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\bin\Debug\Wonderlist Dashboard.pdb
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\bin\Debug\Wonderlist Dashboard.xml
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist Dashboard.vbprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist_Dashboard.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist_Dashboard.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist Dashboard.vbproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist Dashboard.vbproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist Dashboard.vbproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist Dashboard.exe
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist Dashboard.xml
+D:\AW 17\Source Code Visual Studio 19\Wonderlist Dashboard\obj\Debug\Wonderlist Dashboard.pdb

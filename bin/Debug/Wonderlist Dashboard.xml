@@ -1,0 +1,106 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Wonderlist Dashboard
+</name>
+</assembly>
+<members>
+<member name="T:Wonderlist_Dashboard.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources._0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources._0__1__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources._10054_1495856234_9620962_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources._1200px_Salesforce_logo_svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources._1200px_Xero_software_logo_svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.airbnb_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.amazon_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.blog_3599_400_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.dropbox_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.envelope_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.facebook_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.kisspng_freshbooks_accounting_software_business_invoice_5b1e5728b87f29_1084645415287150487557_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.notification_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.search_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.vector_isometric_workspace_1_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Wonderlist_Dashboard.My.Resources.Resources.zoho_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
